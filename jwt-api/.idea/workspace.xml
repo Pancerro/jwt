@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00f825d4-6de6-430e-b6e5-92ac2ea6bc10" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZdMLGvEAgXpZ3cXVjoWu5S5XCj" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jwt-client/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pance\Downloads\jwt-api\jwt-api\src" />
+      <recent name="C:\Users\pance\Downloads\jwt-api\jwt-api\src\main\resources" />
+      <recent name="C:\Users\pance\Downloads\jwt-api\jwt-api\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.bykowski.jwtapi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pance\Downloads\jwt-api\jwt-api\src" />
+      <recent name="C:\Users\pance\Downloads\jwt-api\jwt-api\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JwtApiApplication">
+    <configuration name="JwtApiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jwt-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.pancerro.jwtapi.JwtApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jwt-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.bykowski.jwtapi.JwtApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00f825d4-6de6-430e-b6e5-92ac2ea6bc10" name="Default Changelist" comment="" />
+      <created>1585164459296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585164459296</updated>
+      <workItem from="1585164464678" duration="9937000" />
+      <workItem from="1585186484811" duration="179000" />
+      <workItem from="1585545956281" duration="515000" />
+      <workItem from="1585672096976" duration="65000" />
+      <workItem from="1585672703397" duration="3873000" />
+      <workItem from="1586024760616" duration="26919000" />
+      <workItem from="1586078023566" duration="3000" />
+      <workItem from="1586122506902" duration="1491000" />
+      <workItem from="1586226409644" duration="17000" />
+      <workItem from="1586505135432" duration="3271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
